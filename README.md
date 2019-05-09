@@ -1,4 +1,5 @@
-# spring-boot-ehCache-CacheManager
+# Spring Boot - EhCache (Java Configuration) with CacheManager, Expiry, etc
+
 A simple example to use ehCache CacheManager with multiple caches with expiry time
 
 let us see how to use cache in an API project
